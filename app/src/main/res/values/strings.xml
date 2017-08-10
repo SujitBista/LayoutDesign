@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Fast And Furious</string>
     <string name="title">New + Updated Games</string>
-    <string name="flimdesc">
-        Lorem ipsum dollar sit is a random text for dummy content.
-
+    <string name="fastfurious">Fast and Furious  </string>
+    <string name="starwars">Star Wars Rebels Recon</string>
+    <string name="lords">
+        Age of Lords
     </string>
     <string name="btnmore">More</string>
 </resources>
